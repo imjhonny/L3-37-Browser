@@ -1,9 +1,9 @@
 {
-    "dest": "release-builds/",
-    "categories": [
-      "Utility"
-    ],
-    "lintianOverrides": [
-      "changelog-file-missing-in-native-package"
-    ]
-  }
+  "dest": "release-linux/",
+  "categories": [
+    "Utility"
+  ],
+  "lintianOverrides": [
+    "changelog-file-missing-in-native-package"
+  ]
+}
