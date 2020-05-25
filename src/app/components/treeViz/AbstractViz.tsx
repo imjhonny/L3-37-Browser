@@ -196,6 +196,7 @@ export class AbstractViz extends React.Component<IProps, IState>{
                 {filterButton}
                 {menuLateral}
                 {loader}
+
             </div>
         );
     }
